@@ -27,52 +27,52 @@ Design
 ------
 
 All parametrized modules used to build the filter are available here:
-https://github.com/fjtorresn/FIR_filter/tree/master/proyecto/rtl
+https://github.com/fjtorresn/FIR_filter/tree/main/proyecto/rtl
 
 Testbenches for individual modules are here:
-https://github.com/fjtorresn/FIR_filter/tree/master/proyecto/testbench
+https://github.com/fjtorresn/FIR_filter/tree/main/proyecto/testbench
 
 The main filter implementation (fir2) is here:
-https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/PreSynth/iverilog/rtl/fir2n.v
+https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/PreSynth/iverilog/rtl/fir2n.v
 
 Block diagram
 -------------
 
-The design leverages symmetry in the FIR coefficients to minimize hardware. Certain delays between ASR and ADDER, and between MAC and ROM, were removed. With a 15-cycle delay between reset and the MAC, the filter operates such that the clkout runs N_TAPS times slower than the master clock. Using up/down counters to address coefficient symmetry reduces resource usage. Data and coefficients are processed by a MAC unit; registers and delays synchronize the operations.
+The design leverages symmetry in the FIR coefficients to minimize hardware. Certain delays between ASR and ADDER, and between MAC and ROM, were removed. With a 15-cycle delay between reset and the MAC, the filter operates such that the clkout runs N_TAPS times slower than the main clock. Using up/down counters to address coefficient symmetry reduces resource usage. Data and coefficients are processed by a MAC unit; registers and delays synchronize the operations.
 
-![diagram](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/bloques.png)
+![diagram](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/bloques.png)
 
 Pre-synthesis Simulation
 ------------------------
 
 Place all RTL modules in the rtl folder:
-https://github.com/fjtorresn/FIR_filter/tree/master/proyecto/PreSynth/iverilog/rtl
+https://github.com/fjtorresn/FIR_filter/tree/main/proyecto/PreSynth/iverilog/rtl
 
 Modify run_simulation.csh and run_display.csh to include modules, select the top module, and set a log file. The testbench used for this simulation is:
-https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/testbench/fir2n_TB.v
+https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/testbench/fir2n_TB.v
 
 From the PreSynth folder run:
 csh run_simulation.csh
 csh run_display.csh
 
 The resulting log shows MAC outputs (the MAC performs the filter’s key operation) as well as the overall filter output:
-https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/PreSynth/iverilog/prelog.log
+https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/PreSynth/iverilog/prelog.log
 
 Example waveforms
-- clkout: N_TAPS times slower than the master clock
+- clkout: N_TAPS times slower than the main clock
 - din, dout: filter input and output
 - addr1, addr2: up/down counters
 - m1, m2: MAC inputs
 
-![presim1](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/pres1.png)
-![presim2](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/pres2.png)
+![presim1](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/pres1.png)
+![presim2](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/pres2.png)
 
 Synthesis
 ---------
 
 Synthesis was performed with Yosys. Place RTL files in the yosys/rtl folder. The flow script (flow.ys) selects modules, the top, and the cell library (05). The synthesis log and resulting synthesized netlist are available here:
-- flow log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/yosys/flow.log
-- synth.v: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/yosys/synth.v
+- flow log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/yosys/flow.log
+- synth.v: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/yosys/synth.v
 
 To run synthesis from the yosys folder:
 make
@@ -81,18 +81,18 @@ Post-synthesis Verification
 ---------------------------
 
 For verification, simulate the synthesized netlist together with the standard cell .v file and the original testbench. RTL for post-synthesis verification resides here:
-https://github.com/fjtorresn/FIR_filter/tree/master/proyecto/PostSynth/iverilog/rtl
+https://github.com/fjtorresn/FIR_filter/tree/main/proyecto/PostSynth/iverilog/rtl
 
 Run:
 csh run_simulation.csh
 csh run_display.csh
 
 Compare pre- and post-synthesis logs:
-https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/PostSynth/iverilog/postlog.log
+https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/PostSynth/iverilog/postlog.log
 
 Example post-synthesis waveforms:
-![posts1](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/posts1.png)
-![posts2](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/posts2.png)
+![posts1](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/posts1.png)
+![posts2](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/posts2.png)
 
 Qflow (Full ASIC Flow)
 ----------------------
@@ -102,22 +102,22 @@ qflow gui
 
 Set the top module and the target standard cell library (osu050) in the GUI, then run these stages:
 
-- Preparation: prepares files for synthesis. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/prep.log
-  ![prep](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/preparation.png)
+- Preparation: prepares files for synthesis. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/prep.log
+  ![prep](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/preparation.png)
 
-- Synthesis: converts RTL to gates using the chosen cell library. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/synth.log
+- Synthesis: converts RTL to gates using the chosen cell library. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/synth.log
 
-- Placement: places standard cells on the layout. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/synth.log
-  ![placement1](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/placement.png)
-  ![placement2](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/placement2.png)
+- Placement: places standard cells on the layout. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/synth.log
+  ![placement1](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/placement.png)
+  ![placement2](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/placement2.png)
 
-- Static Timing Analysis (STA): performs timing checks, identifies critical paths, and estimates maximum frequency. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/sta.log
+- Static Timing Analysis (STA): performs timing checks, identifies critical paths, and estimates maximum frequency. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/sta.log
 
-- Routing: routes interconnects between placed cells. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/route.log
-  ![route](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/route.png)
+- Routing: routes interconnects between placed cells. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/route.log
+  ![route](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/route.png)
 
-- Post-route STA: rerun STA with actual routing parasitics. Log: https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/log/post_sta.log
-  ![poststa](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/prsta.png)
+- Post-route STA: rerun STA with actual routing parasitics. Log: https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/log/post_sta.log
+  ![poststa](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/prsta.png)
 
 Magic / GDS generation
 ----------------------
@@ -127,8 +127,8 @@ cd project/Qflow/layout
 magic -dnull -noconsole ./run_drc_fir2n.tcl
 
 This produces the GDS:
-https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/Qflow/layout/firn2n.gds
-![layout](https://github.com/fjtorresn/FIR_filter/blob/master/proyecto/layout.png)
+https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/Qflow/layout/firn2n.gds
+![layout](https://github.com/fjtorresn/FIR_filter/blob/main/proyecto/layout.png)
 
 Characterization
 ----------------
