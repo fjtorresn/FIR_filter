@@ -1,0 +1,4669 @@
+VCD info: dumpfile fir2n_TB.vcd opened for output.
+Tiempo:                    0 
+ Datos MAC: 
+ Adder:   z 
+ Coef:   Z 
+ Salida MAC:   z 
+ Salida FIR:   z
+Tiempo:                50000 
+ Datos MAC: 
+ Adder:   z 
+ Coef:   Z 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:                60000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   0 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   z 
+ Salida FIR:   0
+Tiempo:              1400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              1680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   x
+Tiempo:              1700000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   x
+Tiempo:              1720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              1980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   1 
+ Salida FIR:   x
+Tiempo:              2000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   1 
+ Salida FIR:   0
+Tiempo:              2020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   1 
+ Salida FIR:   0
+Tiempo:              2040000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:              2060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   2 
+ Salida FIR:   0
+Tiempo:              2320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   2 
+ Salida FIR:   1
+Tiempo:              2340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   2 
+ Salida FIR:   1
+Tiempo:              2360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:              2380000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:              2400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   3 
+ Salida FIR:   1
+Tiempo:              2640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   3 
+ Salida FIR:   2
+Tiempo:              2660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   3 
+ Salida FIR:   2
+Tiempo:              2680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:              2700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:              2720000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:              2740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   4 
+ Salida FIR:   2
+Tiempo:              2960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   4 
+ Salida FIR:   3
+Tiempo:              2980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   4 
+ Salida FIR:   3
+Tiempo:              3000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   3
+Tiempo:              3020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   3
+Tiempo:              3040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   3
+Tiempo:              3060000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   3
+Tiempo:              3080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   5 
+ Salida FIR:   3
+Tiempo:              3280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   5 
+ Salida FIR:   4
+Tiempo:              3300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   5 
+ Salida FIR:   4
+Tiempo:              3320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:              3340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:              3360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:              3380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:              3400000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:              3420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   6 
+ Salida FIR:   4
+Tiempo:              3600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   6 
+ Salida FIR:   5
+Tiempo:              3620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   6 
+ Salida FIR:   5
+Tiempo:              3640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3740000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:              3760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   7 
+ Salida FIR:   5
+Tiempo:              3920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   7 
+ Salida FIR:   6
+Tiempo:              3940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   7 
+ Salida FIR:   6
+Tiempo:              3960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              3980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4080000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:              4100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   8 
+ Salida FIR:   6
+Tiempo:              4240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   8 
+ Salida FIR:   7
+Tiempo:              4260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   8 
+ Salida FIR:   7
+Tiempo:              4280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4420000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:              4440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   9 
+ Salida FIR:   7
+Tiempo:              4560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   9 
+ Salida FIR:   8
+Tiempo:              4580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   9 
+ Salida FIR:   8
+Tiempo:              4600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4760000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:              4780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:  10 
+ Salida FIR:   8
+Tiempo:              4800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:  10 
+ Salida FIR:   8
+Tiempo:              4820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  10 
+ Salida FIR:   8
+Tiempo:              4840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  10 
+ Salida FIR:   8
+Tiempo:              4860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  10 
+ Salida FIR:   8
+Tiempo:              4880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  10 
+ Salida FIR:   9
+Tiempo:              4900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  10 
+ Salida FIR:   9
+Tiempo:              4920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              4940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              4960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              4980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5100000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              5120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:  11 
+ Salida FIR:   9
+Tiempo:              5140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  11 
+ Salida FIR:   9
+Tiempo:              5160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  11 
+ Salida FIR:   9
+Tiempo:              5180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  11 
+ Salida FIR:   9
+Tiempo:              5200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  11 
+ Salida FIR:  10
+Tiempo:              5220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  11 
+ Salida FIR:  10
+Tiempo:              5240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5440000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              5460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  12 
+ Salida FIR:  10
+Tiempo:              5480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  12 
+ Salida FIR:  10
+Tiempo:              5500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  12 
+ Salida FIR:  10
+Tiempo:              5520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  12 
+ Salida FIR:  11
+Tiempo:              5540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  12 
+ Salida FIR:  11
+Tiempo:              5560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5780000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              5800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  13 
+ Salida FIR:  11
+Tiempo:              5820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  13 
+ Salida FIR:  11
+Tiempo:              5840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  13 
+ Salida FIR:  12
+Tiempo:              5860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  13 
+ Salida FIR:  12
+Tiempo:              5880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              5900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              5920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              5940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              5960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              5980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6120000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              6140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  14 
+ Salida FIR:  12
+Tiempo:              6160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  14 
+ Salida FIR:  13
+Tiempo:              6180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  14 
+ Salida FIR:  13
+Tiempo:              6200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6460000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              6480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  15 
+ Salida FIR:  14
+Tiempo:              6500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  15 
+ Salida FIR:  14
+Tiempo:              6520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              6800000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  16 
+ Salida FIR:  15
+Tiempo:              6840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              6980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7120000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  16 
+ Salida FIR:  16
+Tiempo:              7160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7420000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  15 
+ Salida FIR:  16
+Tiempo:              7460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  15 
+ Salida FIR:  16
+Tiempo:              7480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7720000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:  16
+Tiempo:              7740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  14 
+ Salida FIR:  16
+Tiempo:              7760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  14 
+ Salida FIR:  15
+Tiempo:              7780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  14 
+ Salida FIR:  15
+Tiempo:              7800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              7980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              8000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              8020000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:  15
+Tiempo:              8040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  13 
+ Salida FIR:  15
+Tiempo:              8060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  13 
+ Salida FIR:  15
+Tiempo:              8080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  13 
+ Salida FIR:  14
+Tiempo:              8100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  13 
+ Salida FIR:  14
+Tiempo:              8120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8320000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:  14
+Tiempo:              8340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  12 
+ Salida FIR:  14
+Tiempo:              8360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  12 
+ Salida FIR:  14
+Tiempo:              8380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  12 
+ Salida FIR:  14
+Tiempo:              8400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  12 
+ Salida FIR:  13
+Tiempo:              8420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  12 
+ Salida FIR:  13
+Tiempo:              8440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8620000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:  13
+Tiempo:              8640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:  11 
+ Salida FIR:  13
+Tiempo:              8660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  11 
+ Salida FIR:  13
+Tiempo:              8680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  11 
+ Salida FIR:  13
+Tiempo:              8700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  11 
+ Salida FIR:  13
+Tiempo:              8720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  11 
+ Salida FIR:  12
+Tiempo:              8740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  11 
+ Salida FIR:  12
+Tiempo:              8760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8920000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:  12
+Tiempo:              8940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:  10 
+ Salida FIR:  12
+Tiempo:              8960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:  10 
+ Salida FIR:  12
+Tiempo:              8980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:  10 
+ Salida FIR:  12
+Tiempo:              9000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:  10 
+ Salida FIR:  12
+Tiempo:              9020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:  10 
+ Salida FIR:  12
+Tiempo:              9040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:  10 
+ Salida FIR:  11
+Tiempo:              9060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:  10 
+ Salida FIR:  11
+Tiempo:              9080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9220000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:  11
+Tiempo:              9240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   9 
+ Salida FIR:  11
+Tiempo:              9360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   9 
+ Salida FIR:  10
+Tiempo:              9380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   9 
+ Salida FIR:  10
+Tiempo:              9400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9520000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:  10
+Tiempo:              9540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   8 
+ Salida FIR:  10
+Tiempo:              9680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   8 
+ Salida FIR:   9
+Tiempo:              9700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   8 
+ Salida FIR:   9
+Tiempo:              9720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9820000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   9
+Tiempo:              9840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:              9980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   7 
+ Salida FIR:   9
+Tiempo:             10000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   7 
+ Salida FIR:   8
+Tiempo:             10020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   7 
+ Salida FIR:   8
+Tiempo:             10040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:             10060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:             10080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:             10100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:             10120000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   8
+Tiempo:             10140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   6 
+ Salida FIR:   8
+Tiempo:             10320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   6 
+ Salida FIR:   7
+Tiempo:             10340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   6 
+ Salida FIR:   7
+Tiempo:             10360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:             10380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:             10400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:             10420000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   7
+Tiempo:             10440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   5 
+ Salida FIR:   7
+Tiempo:             10640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   5 
+ Salida FIR:   6
+Tiempo:             10660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   5 
+ Salida FIR:   6
+Tiempo:             10680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:             10700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:             10720000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   6
+Tiempo:             10740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   4 
+ Salida FIR:   6
+Tiempo:             10960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   4 
+ Salida FIR:   5
+Tiempo:             10980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   4 
+ Salida FIR:   5
+Tiempo:             11000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:             11020000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   5
+Tiempo:             11040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   3 
+ Salida FIR:   5
+Tiempo:             11280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   3 
+ Salida FIR:   4
+Tiempo:             11300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   3 
+ Salida FIR:   4
+Tiempo:             11320000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   4
+Tiempo:             11340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   2 
+ Salida FIR:   4
+Tiempo:             11600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   2 
+ Salida FIR:   3
+Tiempo:             11620000 
+ Datos MAC: 
+ Adder:   1 
+ Coef:   1 
+ Salida MAC:   2 
+ Salida FIR:   3
+Tiempo:             11640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   1 
+ Salida FIR:   3
+Tiempo:             11920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   1 
+ Salida FIR:   2
+Tiempo:             11940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   1 
+ Salida FIR:   2
+Tiempo:             11960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             11980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   2
+Tiempo:             12240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   1
+Tiempo:             12560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             12980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             13980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             14980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15560000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15580000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15600000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15620000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15640000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15660000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15680000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15700000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15720000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15740000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15760000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15780000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15800000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15820000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15840000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15860000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15880000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15900000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15920000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15940000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15960000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             15980000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16000000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16020000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16040000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16060000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16080000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16100000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16120000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16140000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16160000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16180000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16200000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16220000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16240000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   8 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16260000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   9 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16280000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  10 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16300000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  11 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16320000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  12 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16340000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  13 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16360000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  14 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16380000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  15 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16400000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:  16 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16420000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   1 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16440000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   2 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16460000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   3 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16480000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   4 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16500000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   5 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16520000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   6 
+ Salida MAC:   0 
+ Salida FIR:   0
+Tiempo:             16540000 
+ Datos MAC: 
+ Adder:   0 
+ Coef:   7 
+ Salida MAC:   0 
+ Salida FIR:   0

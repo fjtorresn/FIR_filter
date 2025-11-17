@@ -1,0 +1,23 @@
+read_verilog ./rtl/adder.v
+read_verilog ./rtl/asr.v
+read_verilog ./rtl/clkdiv.v
+read_verilog ./rtl/comparador.v
+read_verilog ./rtl/counter_up.v
+read_verilog ./rtl/counter_down.v
+read_verilog ./rtl/fir2n.v
+read_verilog ./rtl/mac.v
+read_verilog ./rtl/register.v
+read_verilog ./rtl/retardo.v
+read_verilog ./rtl/rom.v
+
+read_liberty -lib osu05_stdcells.lib
+
+synth -top fir2n 
+
+dfflibmap -liberty osu05_stdcells.lib
+abc -D 10000 -constr example.constr -liberty osu05_stdcells.lib
+opt_clean
+
+stat -liberty osu05_stdcells.lib
+
+write_verilog synth.v

@@ -1,0 +1,33 @@
+# Synthesis script for yosys created by qflow
+read_liberty -lib -ignore_miss_dir -setattr blackbox /usr/local/share/qflow/tech/osu050/osu05_stdcells.lib
+read_verilog  /home/openvlsi/Desktop/Proyecto/Qflow/source/fir2n.v
+read_verilog  register.v
+read_verilog  mac.v
+read_verilog  retardo.v
+read_verilog  comparador.v
+read_verilog  rom.v
+read_verilog  adder.v
+read_verilog  asr.v
+read_verilog  counter_down.v
+read_verilog  counter_up.v
+read_verilog  clkdiv.v
+
+# High-level synthesis
+synth -top fir2n
+# Map register flops
+dfflibmap -liberty /usr/local/share/qflow/tech/osu050/osu05_stdcells.lib
+opt
+
+# Map combinatorial cells, standard script
+abc -exe /usr/local/share/qflow/bin/yosys-abc -liberty /usr/local/share/qflow/tech/osu050/osu05_stdcells.lib -script +strash;scorr;ifraig;retime,{D};strash;dch,-f;map,-M,1,{D}
+flatten
+
+clean -purge
+# Output buffering
+iopadmap -outpad BUFX2 A:Y -bits
+# Cleanup
+opt
+clean
+rename -enumerate
+write_blif  -buf BUFX2 A Y fir2n_mapped.blif
+stat
